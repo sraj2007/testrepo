@@ -1,4 +1,4 @@
-<mxfile modified="2024-07-03T04:12:46.483Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Sk7d3r97JP_bB_QJpAHC" version="24.6.4" type="github" pages="2">
+<mxfile modified="2024-07-10T22:55:39.224Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="xGkT3rTdKQsrXCsMDHZf" version="24.6.4" type="github" pages="2">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
     <mxGraphModel dx="1434" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -162,7 +162,7 @@
         <mxCell id="aiB9hrRQSwI9ZsmuD3J2-12" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
           <mxGeometry x="272.2" y="428.5" width="37.8" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="aiB9hrRQSwI9ZsmuD3J2-13" value="Temperature&lt;div&gt;Sensor 2&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.thermostat;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="aiB9hrRQSwI9ZsmuD3J2-13" value="Temperature&lt;div&gt;Sensor 1&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.thermostat;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="410.5" width="49.5" height="49.5" as="geometry" />
         </mxCell>
         <mxCell id="aiB9hrRQSwI9ZsmuD3J2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=oval;endFill=1;startArrow=oval;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
